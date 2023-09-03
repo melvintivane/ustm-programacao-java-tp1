@@ -4,8 +4,10 @@ This repository contains a set of Java programs that were developed to practice 
 ## Content
 The repository is organized as follows:
 
-- OpArit.java: - This class contains examples of arithmetic operations such as addition, subtraction, multiplication and division.
-OpLogi.java: This class contains examples of logical operations such as OR, AND, exclusive OR, and NOT operators.
+- OpArit.java: This class contains examples of arithmetic operations such as addition, subtraction, multiplication and division.
+
+- OpLogi.java: This class contains examples of logical operations such as OR, AND, exclusive OR, and NOT operators.
+
 OpRela.java: This class contains examples of relational operations, such as equality, inequality, greater, less, greater or equal, and less than or equal.
 TP1_Exercicio1.java: This class contains examples of variable declaration and assignment.
 TP1_Exercicio2.java: This class contains example methods to calculate addition, subtraction, multiplication, division, rectangle perimeter, rectangle area, cylinder volume and logical operations.
