@@ -1,7 +1,7 @@
 # Programming Exercises in Java
 This repository contains a set of Java programs that were developed to practice and demonstrate Java programming concepts. Each program addresses a specific topic and the programs are organized into separate classes.
 
-##Content
+## Content
 The repository is organized as follows:
 
 OpArit.java: This class contains examples of arithmetic operations such as addition, subtraction, multiplication and division.
