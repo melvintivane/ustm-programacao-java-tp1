@@ -25,9 +25,12 @@ The repository is organized as follows:
 ## How to run
 To run either program, follow these steps:
 
-"1." Make sure you have the Java environment set up on your system.
+1. Make sure you have the Java environment set up on your system.
+ 
 2. Open the `.java` file corresponding to the program you want to run in a Java development environment such as Eclipse or IntelliJ IDEA.
+ 
 3. Compile the program.
+   
 4. Run the program.
 
 ## Contribution
