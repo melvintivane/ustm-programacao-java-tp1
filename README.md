@@ -7,13 +7,20 @@ The repository is organized as follows:
 - OpArit.java: This class contains examples of arithmetic operations such as addition, subtraction, multiplication and division.
 
 - OpLogi.java: This class contains examples of logical operations such as OR, AND, exclusive OR, and NOT operators.
-OpRela.java: This class contains examples of relational operations, such as equality, inequality, greater, less, greater or equal, and less than or equal.
-TP1_Exercicio1.java: This class contains examples of variable declaration and assignment.
-TP1_Exercicio2.java: This class contains example methods to calculate addition, subtraction, multiplication, division, rectangle perimeter, rectangle area, cylinder volume and logical operations.
-TP1_Exercicio3.java: This class contains example methods for calculating the body adiposity index (BFI) and verifying a student's admission to the exam based on their grades.
-TP1_Exercicio4.java: This class contains example methods to calculate the factorial of a number using different control structures (while, do-while, for).
-TP1_Exercicio5.java: This class contains examples of one-dimensional and two-dimensional arrays.
-TP1_Exercicio7.java: This class contains examples of arithmetic, logical and relational operations in Java.
+
+- OpRela.java: This class contains examples of relational operations, such as equality, inequality, greater, less, greater or equal, and less than or equal.
+
+- TP1_Exercicio1.java: This class contains examples of variable declaration and assignment.
+
+- TP1_Exercicio2.java: This class contains example methods to calculate addition, subtraction, multiplication, division, rectangle perimeter, rectangle area, cylinder volume and logical operations.
+
+- TP1_Exercicio3.java: This class contains example methods for calculating the body adiposity index (BFI) and verifying a student's admission to the exam based on their grades.
+
+- TP1_Exercicio4.java: This class contains example methods to calculate the factorial of a number using different control structures (while, do-while, for).
+
+- TP1_Exercicio5.java: This class contains examples of one-dimensional and two-dimensional arrays.
+
+- TP1_Exercicio7.java: This class contains examples of arithmetic, logical and relational operations in Java.
 
 ## How to run
 To run either program, follow these steps:
