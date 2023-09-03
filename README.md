@@ -25,12 +25,11 @@ The repository is organized as follows:
 ## How to run
 To run either program, follow these steps:
 
-Make sure you have the Java environment set up on your system.
-Open the .java file corresponding to the program you want to run in a Java development environment such as Eclipse or IntelliJ IDEA.
-Compile the program.
-Run the program.
-Contribution
+"1." Make sure you have the Java environment set up on your system.
+2. Open the `.java` file corresponding to the program you want to run in a Java development environment such as Eclipse or IntelliJ IDEA.
+3. Compile the program.
+4. Run the program.
+
+## Contribution
 Feel free to contribute more examples or improvements to existing programs. Just fork this repository, make the desired changes and create a pull request.
 
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
